@@ -1,0 +1,30 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "phonegap-plugin-push": {
+            "PACKAGE_NAME": "io.example.notification"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "io.example.notification"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "io.example.notification"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "io.example.notification"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "io.example.notification"
+        },
+        "ionic-plugin-keyboard": {
+            "PACKAGE_NAME": "io.example.notification"
+        }
+    },
+    "dependent_plugins": {}
+}
